@@ -1,6 +1,6 @@
 cask "ading" do
   version "0.3.0"
-  sha256 "f607f92b6bf4f89637cf703ba42b7bb3275f2e8f23cfdfa1c1e7b7592397501b"
+  sha256 "c65bc7d3a6d56195952d722165bbcefbd445660f1d5c8dfde17c53a1c51d7fad"
 
   url "https://politeness-ading.oss-cn-shanghai.aliyuncs.com/releases/#{version}/ADing-#{version}-arm64.dmg"
   name "阿钉"
