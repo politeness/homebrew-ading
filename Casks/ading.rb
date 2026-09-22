@@ -8,7 +8,7 @@ cask "ading" do
   desc "Chat-style workspace that puts your local coding agents on one team"
   homepage "https://www.coffeestudy.com.cn/"
 
-  depends_on macos: ">= :monterey"
+  depends_on macos: ">= :sonoma"
   depends_on arch: :arm64
 
   app "阿钉.app"
