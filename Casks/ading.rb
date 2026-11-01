@@ -1,6 +1,6 @@
 cask "ading" do
-  version "0.8.3"
-  sha256 "f05dc2544cdff2eaf067e8551c807f7b1d8933653c67354730da0959e89be89a"
+  version "0.9.0"
+  sha256 "d5fec3d297c9fff8c5a45b4df0ac475db28b702c5e612fdac60005da13c0557b"
 
   url "https://politeness-ading.oss-cn-shanghai.aliyuncs.com/ota/desktop_mac/releases/#{version}/ADing-#{version}-arm64.dmg"
   name "阿钉"
